@@ -22,4 +22,4 @@ Path: [0,0] => [2,1] => [4,2] => [6,1] => [7,3] => [6,5] => [7,7]
 
 ## Possible Improvements
 
-Add weighting to graph nodes based on the distance to the target square. This would increase the speed of the algorithm, as it prioritizes paths that have higher weighting within each level of the BFS.
+Add weighting to graph nodes based on the distance to the target square. This would increase efficiency, as nodes having higher weighting within each level of the BFS would be prioritized.
