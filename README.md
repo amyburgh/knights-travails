@@ -2,8 +2,6 @@
 
 Knights Travail is a function that uses a [Breadth-first search (BFS)](https://en.wikipedia.org/wiki/Breadth-first_search) algorithm to return the shortest path from one square to another on a chess board for the knight piece.
 
----
-
 ## Usage
 
 ```
@@ -21,8 +19,6 @@ Path: [0,0] => [2,1] => [4,2] => [6,1] => [7,3] => [6,5] => [7,7]
 - - 1 - - - 3 -
 0 - - - - - - -
 ```
-
----
 
 ## Possible Improvements
 
