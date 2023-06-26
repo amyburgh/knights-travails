@@ -14,6 +14,6 @@ const buildPath = () => {
   return s
 }
 
-console.log(`Knight made it in ${path.length - 1} moves!`)
+console.log(`\nKnight made it in ${path.length - 1} moves!`)
 console.log(buildPath())
 board.print()
